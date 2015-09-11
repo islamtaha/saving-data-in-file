@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1441994462 source:e:\codeblock\lynda-c++\dp-cpp\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+
