@@ -1,2 +1,2 @@
-# saving-data-in-file
-simple program to store data in file and read data from file in c++
+# simple students system
+simple students system using files to store and read data
